@@ -6,8 +6,7 @@
 Modelo baseline: TF-IDF + Regressão Logística  
 Acurácia no teste: ≈ 88.7 %
 
-### Demo ao vivo
-https://seu-link-gradio-aqui.gradio.live (cole o link que apareceu quando rodou o notebook)
+Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ### Como executar
 ```bash
@@ -17,4 +16,4 @@ pip install -r requirements.txt
 jupyter notebook
 → abra o notebook e rode tudo
 
-Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
