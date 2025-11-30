@@ -1,6 +1,6 @@
 # Classificação de Sentimentos em Avaliações de Filmes (IMDb)
 
-**Aluno:** Seu Nome Completo  
+**Aluno:** Samuel Cassiano dos Santos
 **Disciplina:** Projetos em Inteligência Computacional – 2025
 
 Modelo baseline: TF-IDF + Regressão Logística  
