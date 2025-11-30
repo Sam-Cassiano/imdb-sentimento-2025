@@ -16,5 +16,3 @@ Treinar um modelo de NLP capaz de identificar automaticamente se uma crítica de
 - TF-IDF (5.000 features) + Regressão Logística
 - Acurácia no conjunto de teste: **≈ 88.7 %** (executado em 30/11/2025)
 
-### Estrutura do repositório
-
